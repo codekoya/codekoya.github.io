@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Click Here](https://codekoya.github.io/index.html)
+- Live Site URL: [Click Here](https://codekoya.github.io/loopstudios-landing-page/)
 
 ## My process
 
